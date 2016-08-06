@@ -1,0 +1,28 @@
+_repo: The-Great-Events-by-Famous-Historians-Volume-21The-Recent-Days--1910-1914-_10341
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Horne, Charles F. (Charles Francis)
+    alias: Horne, Charles Francis
+    birthdate: 1870
+    deathdate: 1942
+    gutenberg_agent_id: '3319'
+    url: http://www.gutenberg.org/2009/agents/3319
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Francis_Horne
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10341'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'World history'
+- GITenberg
+title: 'The Great Events by Famous Historians, Volume 21
+
+  The Recent Days (1910-1914)'
+url: http://www.gutenberg.org/ebooks/10341
